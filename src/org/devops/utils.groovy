@@ -1,4 +1,4 @@
 package org.devops
-def PrintMsg{
-  pringln("printMsg")
+def PrintMsg(msg){
+  pringln(msg)
 }
